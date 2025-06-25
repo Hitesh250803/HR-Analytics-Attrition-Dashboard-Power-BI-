@@ -1,6 +1,6 @@
-HR Analytics – Attrition Dashboard (Power BI)
+
 🧩 Project Title
-HR Analytics Dashboard – Employee Attrition
+HR Analytics Dashboard – Employee Attrition (Power BI)
 
 🛠 Tools Used
 Power BI Desktop
